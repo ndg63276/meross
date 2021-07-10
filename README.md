@@ -172,3 +172,5 @@ client.connect(options);
 //  message.destinationName = "World";
 //  client.send(message);
 
+##############
+# Fails as meross doesn't seem to allow mqtt over websocket
